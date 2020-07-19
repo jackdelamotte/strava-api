@@ -25,13 +25,12 @@ header = {'Authorization': 'Bearer ' + access_token}
 param = {'per_page': 200, 'page' : 1}
 my_dataset = requests.get(activities_url, headers=header, params=param).json()
 
-long_runs = []
+lr_data = open('long_run_data.txt', 'w')
 
 for i in range(len(my_dataset)):
 
     if(my_dataset[i]['type'] == 'Run' and my_dataset[i]['distance'] > 10000.0): # qualifies as a long run if longer than 10km
 
-        long_runs.append(f"Distance: {my_dataset[i]['distance']} Name: {my_dataset[i]['name']} Date: {my_dataset[i]['start_date'][:10]}")
+         lr_data.write(f"Name: {my_dataset[i]['name']}\tDistance: {my_dataset[i]['distance']}\tDate: {my_dataset[i]['start_date'][:10]}\n")
 
-for lr in long_runs:
-    print(lr)
+

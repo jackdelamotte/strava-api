@@ -1,0 +1,19 @@
+Name: Morning Run	Distance: 13090.1	Date: 2020-07-18
+Name: Morning Run	Distance: 13657.7	Date: 2020-06-27
+Name: Night Run	Distance: 21131.6	Date: 2020-06-23
+Name: Party Shirt Ball Run	Distance: 13476.3	Date: 2020-06-06
+Name: Howdy Run w/ Grant	Distance: 10641.7	Date: 2020-06-01
+Name: Morning Run	Distance: 13745.4	Date: 2020-05-30
+Name: Morning Run	Distance: 11275.3	Date: 2020-05-17
+Name: Morning Run	Distance: 12109.0	Date: 2020-05-03
+Name: Evening Run	Distance: 16134.3	Date: 2020-04-30
+Name: Morning Run	Distance: 11278.9	Date: 2020-04-26
+Name: Afternoon Run	Distance: 12930.1	Date: 2020-04-24
+Name: Morning Run*	Distance: 11274.3	Date: 2020-04-19
+Name: Night Run	Distance: 12898.7	Date: 2020-04-11
+Name: Long Run	Distance: 11610.5	Date: 2020-04-07
+Name: Long Run	Distance: 23262.4	Date: 2020-04-01
+Name: Long Run	Distance: 10242.6	Date: 2020-03-28
+Name: Afternoon Run	Distance: 12492.9	Date: 2020-02-16
+Name: Lunch Run	Distance: 10282.4	Date: 2019-10-27
+Name: Evening Run	Distance: 12612.5	Date: 2019-10-03
