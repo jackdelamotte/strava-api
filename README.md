@@ -16,7 +16,7 @@ So there are two things I have done with the data I got from using the API (so f
 
 The first one -- created a heatmap of all my activities (which I think is a Strava premium feature mwahaha)
 
-![personal heatmap](https://github.com/[jackdelamotte]/[strava-api]/blob/[master]/example.png?raw=true)
+![personal heatmap](example.png)
 
 The second one -- In the python script that connects to the API I included a bit that sorts through my activity data
 and pulls out any runs longer than 10km and puts them in a text file with their name, distance, and date. I did this to 
